@@ -7,6 +7,7 @@ public class PlayerController : MonoBehaviour
 {
     public float speed = 10;
     public float powerJump = 7;
+    public int pickUpsToWin = 20;
     public Text countText;
     public Text winText;
     public LayerMask groundLayers;
@@ -61,7 +62,7 @@ public class PlayerController : MonoBehaviour
     void SetCountText()
     {
         countText.text = "Count: " + count.ToString();
-        if (count >= 12)
+        if (count >= pickUpsToWin)
         {
             winText.text = "You Win!";
         }
