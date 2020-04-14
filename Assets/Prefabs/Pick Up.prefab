@@ -107,6 +107,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d6957049b55b9e24dad7b279cedcd99b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  pickUp: {fileID: 6846262760432101308}
+  translationSpeed: 0.25
 --- !u!54 &-592080404852861686
 Rigidbody:
   m_ObjectHideFlags: 0
