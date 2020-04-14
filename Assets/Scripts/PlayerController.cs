@@ -7,7 +7,7 @@ public class PlayerController : MonoBehaviour
 {
     public float speed = 10;
     public float powerJump = 7;
-    public int pickUpsToWin = 20;
+    public int pickUpsToWin = 21;
     public Text countText;
     public Text winText;
     public LayerMask groundLayers;
