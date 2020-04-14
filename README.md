@@ -10,6 +10,6 @@ This is the **list of improvements** that I have made over the version obtained 
   -  Added **diferent and new materials** to the elements.<br />
   -  Added **levitation effect** to the pick ups (up and down movement).<br />
   -  Added **scouring force** to the ball (To prevent infinite slippage).<br />
-  -  Added **9 additional pick ups**.<br />
+  -  Added **10 additional pick ups**. (Last is special and has a different material and size)<br />
   -  Added the **ability to jump** (with the "Space" key).<br />
   -  **Illumination angle readjustment**.<br />
