@@ -12,4 +12,5 @@ This is the **list of improvements** that I have made over the version obtained 
   -  Added **scouring force** to the ball (To prevent infinite slippage).<br />
   -  Added **10 additional pick ups**. (Last is special and has a different material and size)<br />
   -  Added the **ability to jump** (with the "Space" key).<br />
+  -  Added **sound effect to pick ups**.<br />
   -  **Illumination angle readjustment**.<br />
