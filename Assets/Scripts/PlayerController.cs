@@ -15,6 +15,7 @@ public class PlayerController : MonoBehaviour
 
     private Rigidbody rb;
     private int count;
+    private AudioSource source;
 
     void Start()
     {
@@ -23,6 +24,7 @@ public class PlayerController : MonoBehaviour
         count = 0;
         SetCountText();
         winText.text = "";
+        source = GetComponent<AudioSource>();
     }
 
     void Update()
@@ -53,6 +55,8 @@ public class PlayerController : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Pick Up"))
         {
+            Debug.Log("Bang");
+            source.Play();
             other.gameObject.SetActive(false);
             count++;
             SetCountText();
