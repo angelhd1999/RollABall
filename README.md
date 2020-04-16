@@ -1,7 +1,7 @@
 # Lab 1 - Roll a Ball<br />
 **Name:** Àngel Herrero Díaz <br />
 **NIA:** 205310<br />
-U149946<br />
+**User:** U149946<br />
 **Emails:** angelhd1999@gmail.com / angel.herrero01@estudiant.upf.edu<br />
 
 First deliverable, Lab 1 of Interactive Systems<br />
