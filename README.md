@@ -13,3 +13,4 @@ This is the **list of improvements** that I have made over the version obtained 
   -  Added **10 additional pick ups**. (Last is special and has a different material and size)<br />
   -  Added the **ability to jump** (with the "Space" key).<br />
   -  **Illumination angle readjustment**.<br />
+  -  **Changed text size and font.**<br />
